@@ -1,6 +1,6 @@
-# WhatsKet-Trasparency
+# WhatsKey-Trasparency
 <p align="center">
-  <img src="https://github.com/xerox0/WhatsKey-Transparency/blob/main/Documenti/Immagini/whatsapp-2842640_640.png" alt="Project logo" width="200px">
+  <img src="https://github.com/xerox0/WhatsKey-Transparency/blob/main/Documenti/Immagini/whatsapp-2842640_640.png" alt="Project logo" width="600px">
 </p>
 
 WhatsKey-Transparency is a project based on:
