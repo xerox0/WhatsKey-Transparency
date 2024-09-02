@@ -19,4 +19,3 @@ To test the project you can ```git clone``` the repo, positioning inside ```akd-
 cargo build
 cargo run
 ```
-c
