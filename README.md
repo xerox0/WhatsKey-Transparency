@@ -12,10 +12,11 @@ WhatsKey-Transparency is a project based on:
 5. PEPR 23 - WhatsApp Key Transparency - (https://www.usenix.org/conference/pepr23/presentation/lewi)
 
 The objective of this project is to understand the functioning of the key transparency introduced by WhatsApp and use the AKD that Meta has made available to simulate the functioning of the WhatsApp key transparency. 
-To do this, in addition to meta's AKD repository, we also use the API that meta has made available as a crate which we can find here https://docs.rs/akd/latest/akd/
+To do this, in addition to meta's AKD repository, we also use the API that meta has made available as a crate which we can find here https://docs.rs/akd/latest/akd/. Here are also explained the 4 features that you can test with this demo: publication, lookup proofs, Key History Proofs, Append-Only Proofs.
 
 To test the project you can ```git clone``` the repo, positioning inside ```akd-keytrasparency/src``` folder and type the following commands:
 ```bash
 cargo build
 cargo run
 ```
+
