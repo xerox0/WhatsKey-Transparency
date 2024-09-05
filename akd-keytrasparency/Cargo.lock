@@ -47,6 +47,7 @@ name = "akd-keytrasparency"
 version = "0.1.0"
 dependencies = [
  "akd",
+ "blake3",
  "hex",
  "sha2",
  "sha256",
