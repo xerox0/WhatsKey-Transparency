@@ -1,10 +1,10 @@
 # WhatsKey-Trasparency
-c
+
 <p align="center">
   <img src="https://github.com/xerox0/WhatsKey-Transparency/blob/main/Documenti/Immagini/whatsapp-2842640_640.png" alt="Project logo" width="600px">
 </p>
 <p align="center">
-  <strong>Descrizione:</strong> The encryption behind the world's most popular messaging app.
+  <strong></strong> The encryption behind the world's most popular messaging app.
 </p>
 
 WhatsKey-Transparency is a project based on:
